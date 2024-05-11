@@ -6,8 +6,8 @@ title: 王楚博
 name_pronunciation: Wang Chubo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chubo
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate Student of Materials Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Tokyo
+    url: https://www.u-tokyo.ac.jp/ja/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
