@@ -51,12 +51,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:cbwang@stu.hit.edu.cn
+    label: Contact me by email
+    display:
+      header: true
   - icon: weixin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://www.yagi.iis.u-tokyo.ac.jp
