@@ -87,8 +87,9 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 
+mailto:cbwang@stu.hit.edu.cn
+  - icon: weixin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
@@ -114,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-Wang Chubo is postgraduate student of materials engineering at Institute of Industrial Science, the University of Tokyo. His research interests include materials engineering, electrochemical reactions and electrochemical co<sub>2</sub> reduction. He is self-motivated and willing to explore more possibilities in the future.
+Wang Chubo is postgraduate student of materials engineering at Institute of Industrial Science, the University of Tokyo. His research interests include materials engineering, electrochemical reactions and electrochemical CO<sub>2</sub> reduction. He is self-motivated and willing to explore more possibilities in the future.
 {style="text-align: justify;"}
