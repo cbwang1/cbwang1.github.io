@@ -87,8 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
-mailto:cbwang@stu.hit.edu.cn
+    link: mailto:cbwang@stu.hit.edu.cn
   - icon: weixin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
